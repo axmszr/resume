@@ -1,5 +1,5 @@
 module.exports = [{
-    'Music': ['Songs', 'Albums', 'Title Tracks', 'K-pop', 'Genre Specific', 'Soundtrack']
+    'Music': ['Songs', 'Albums', 'Title Tracks', 'K-pop', 'Genre-Specific', 'Soundtracks', 'Tracklists']
   },
   {
     'Television': ['Seasons', 'Characters', 'Cast', 'Reality', 'Titles', 'K-drama', 'Animation', 'Anime']
@@ -8,22 +8,22 @@ module.exports = [{
     'Movies': ['Awards', 'Cast', 'Actors', 'Characters', 'Titles', 'Marvel/DC', 'Star Wars', 'Animation', 'Anime']
   },
   {
-    'Culture': []
+    'Culture': ['National Symbols']
   },
   {
     'Geography': ['Cities', 'Countries', 'Capitals', 'Features', 'Geology']
   },
   {
-    'Politics': []
+    'Politics': ['US Politics']
   },
   {
     'Celebrities': []
   },
   {
-    'Challenging': []
+    'Challenging': ['where da hek', 'wat da hek', 'who da hek']
   },
   {
-    'Mathematics': []
+    'Mathematics': ['Numbers', 'Geometry']
   },
   {
     'History': ['War/Battles', 'People', 'Countries', 'Prehistory', 'Asian', 'European', 'African', 'American', 'Oceanic']
@@ -35,22 +35,22 @@ module.exports = [{
     'Gaming': ['Tabletop', 'Puzzle', 'Shooter', 'Hardware', 'Content']
   },
   {
-    'Sports': []
+    'Sports': ['Basketball', 'American Football', 'Soccer', 'Tennis', 'Sportsmen']
   },
   {
-    'Religion': []
+    'Religion': ['Christianity', 'Islam', 'Mythology', 'Hinduism', 'Indigenous']
   },
   {
-    'Objects': []
+    'Objects': ['I spy...', 'Things that...', 'Types of...']
   },
   {
     'Transportation': []
   },
   {
-    'Adult': []
+    'Adult': ['Vulgar', 'NSFW']
   },
   {
-    'Art': []
+    'Art': ['Art Media', 'Artworks', 'Artists']
   },
   {
     'Literature': ['Harry Potter', 'Middle-Earth', 'Manga', 'Book Series', 'Authors']
@@ -68,13 +68,13 @@ module.exports = [{
     'Society': []
   },
   {
-    'Nature': []
+    'Nature': ['Flora', 'Fauna']
   },
   {
     'Technology': []
   },
   {
-    'Language': []
+    'Language': ['Spelling', 'Synonyms', 'Languages', 'Grammar']
   },
   {
     'Business': []
